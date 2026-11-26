@@ -76,6 +76,8 @@ The patch was submitted to the Linux kernel `platform-driver-x86` mailing list.
 
 This project is not yet part of the mainline Linux kernel. Its upstream status will be updated as the review progresses.
 
+See [UPSTREAM.md](UPSTREAM.md) for the submission history, maintainer feedback, and review status.
+
 ## Author
 
 **Martiya Aryan Mehr**
