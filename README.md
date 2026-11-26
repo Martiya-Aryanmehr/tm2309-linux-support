@@ -66,7 +66,7 @@ Tests performed:
 
 The upstream submission is maintained separately from local development modifications.
 
-See [`patches/`](patches/) for the submitted patch.
+See the [exact v2 patch submitted to the mailing list](patches/0001-platform-x86-bitland-mifs-wmi-add-profile-support-for-xiaomi-tm2309.patch).
 
 ## Upstream Discussion
 
