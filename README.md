@@ -62,6 +62,8 @@ Tests performed:
 - The CPU-load measurements provide useful observations but do not independently prove the physical fan response to each QFAN value.
 - The tested development source included local compatibility changes for the installed Arch kernel headers. Those changes are separate from the submitted upstream patch.
 
+See [TESTING.md](TESTING.md) for the detailed testing report, including the test scope and known limitations.
+
 ## Patch
 
 The upstream submission is maintained separately from local development modifications.
